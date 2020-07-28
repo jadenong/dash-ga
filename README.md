@@ -11,6 +11,6 @@ Code [here](https://github.com/jadenong/dash-ga/blob/master/project-1.htm).
 
 ### Project 2
 
-[Preview.](https://htmlpreview.github.io/?https://github.com/jadenong/dash-ga/blob/master/project-2.htm)
+[Preview.](https://dash.generalassemb.ly/jadenong/build-your-own-blog-theme)
 
 [Code.](https://github.com/jadenong/dash-ga/blob/master/project-2.htm)
