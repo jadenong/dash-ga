@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+  <link href="/normalize.css" rel="stylesheet">
+  <style>
+    header {
+      text-align: center;
+      background: url('https://vignette.wikia.nocookie.net/thegreatgatsby/images/7/72/Great_Gatsby-29869R.jpg/revision/latest?cb=20130430184729');
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
+      max-width: 500px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    @media (max-width: 500px) {
+      h1 {
+        font-size: 36px;
+        padding: 5px;
+      }
+      li {
+        padding: 5px;
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="/assets/jeff.png">
+    <h1>Jay's Log</h1>
+    <!--- <ul>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Best Poems</a></li>
+      <li><a href="#">Worst Poems</a></li>
+    </ul> --->
+  </header>
+  <article>
+    <h2>Odd Fellow Just Moved In Next Door</h2>
+    <p>The old shed on the other side of the road has been occupied by a rather strange man by the name Nick Carroway. For the past few weeks or so, Nick has been making sexual advances towards me and flirting with me in a way that makes me profoundly uncomfortable.</p>
+    <button>Like</button>
+  </article>
+  <article>
+    <h2>Goodbye Oxon!</h2>
+    <p>My time at Oxford has brightened my vocabulary and heightened my perceptitions of the world immensely, but it is time to move on. With my greater awareness of the world, I set sail home to find my destiny and to reclaim Daisy as my own. I just hope she hasn't married another man.</p>
+    <button>Like</button>
+  </article>
+  <article>
+    <h2>Just Met The Girl Of My Dreams!</h2>
+    <p>Oh boy! I have just met the most amazing girl whose name is Daisy Fay! I sure hope she does not marry another man while I go overseas to fight the war.</p>
+    <button>Like</button>
+  </article>
+  <script>
+    $("button").on("click", function() {
+      alert("Clicked!");
+    });
+  </script>
+</body>
