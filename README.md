@@ -1,5 +1,6 @@
 # dash-ga
-Great Gatsby-inspired write-ups for Dash's General Assembly online course. 
+Write-ups for Dash's General Assembly online course. 
+
 ## Projects
 ### Project 1
 
@@ -14,3 +15,13 @@ Code [here](https://github.com/jadenong/dash-ga/blob/master/project-1.htm).
 [Preview.](https://dash.generalassemb.ly/jadenong/build-your-own-blog-theme)
 
 [Code.](https://github.com/jadenong/dash-ga/blob/master/project-2.htm)
+
+### Project 3
+
+[Preview.](https://dash.generalassemb.ly/jadenong/build-your-own-business-website)
+
+[Code.](https://github.com/jadenong/dash-ga/blob/master/project-3.htm)
+
+### Other projects
+
+I didn't include the code of the other projects since they weren't customizable. Follow the instructions and you'll get there eventually.
