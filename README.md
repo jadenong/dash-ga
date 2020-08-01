@@ -24,4 +24,4 @@ Code [here](https://github.com/jadenong/dash-ga/blob/master/project-1.htm).
 
 ### Other projects
 
-I didn't include the code of the other projects since they weren't customizable. Follow the instructions and you'll get there eventually.
+I didn't include the code of the other projects since they weren't customizable. Follow the instructions and you'll get there eventually. If you need help, feel free to contact me.
