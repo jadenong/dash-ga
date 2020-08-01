@@ -6,7 +6,7 @@ Write-ups for Dash's General Assembly online course.
 
 ![](https://i.imgur.com/o4uG4Ly.png)
 
-See it for yourself [here](https://htmlpreview.github.io/?https://github.com/jadenong/dash-ga/blob/master/project-1.htm)! (I didn't use GA's preview link for this one because it was glitchy.)
+See it for yourself [here](https://dash.generalassemb.ly/jadenong/build-your-own-personal-website)!
 
 Code [here](https://github.com/jadenong/dash-ga/blob/master/project-1.htm).
 
